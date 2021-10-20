@@ -1,0 +1,3 @@
+accessing
+repeatHeadingSet
+	^repeatHeadingSet

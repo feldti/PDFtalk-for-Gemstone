@@ -74,11 +74,9 @@ DateAndTime
 	classVars: #()
 	classInstVars: #()
 	poolDictionaries: #()
-	inDictionary: PDFtalkLibrary
-%
-DoIt
-Timestamp category: 'Values VW stub class'.
-Timestamp comment: 'VisualWorks class'.
+	inDictionary: ''
+    category: 'Report4PDF'
+    options: #()
 %
 DoIt
 Color

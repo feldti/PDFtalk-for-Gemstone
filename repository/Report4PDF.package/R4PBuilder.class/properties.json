@@ -1,0 +1,18 @@
+{
+	"category" : "Report4PDF",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"report",
+		"reportPage",
+		"outputPages",
+		"currentPage",
+		"currentFont" ],
+	"name" : "R4PBuilder",
+	"pools" : [
+		 ],
+	"super" : "R4PObject",
+	"type" : "normal" }

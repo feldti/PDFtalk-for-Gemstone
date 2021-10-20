@@ -1,0 +1,14 @@
+{
+	"category" : "Report4PDF",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"bulletText" ],
+	"name" : "R4PBullet",
+	"pools" : [
+		 ],
+	"super" : "R4PLayout",
+	"type" : "normal" }

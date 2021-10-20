@@ -1,0 +1,15 @@
+{
+	"category" : "Report4PDF",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"cells",
+		"columnWidth" ],
+	"name" : "R4PColumn",
+	"pools" : [
+		 ],
+	"super" : "R4PLayout",
+	"type" : "normal" }

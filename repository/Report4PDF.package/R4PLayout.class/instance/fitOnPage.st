@@ -1,0 +1,4 @@
+accessing
+fitOnPage
+
+	^fitOnPage == true

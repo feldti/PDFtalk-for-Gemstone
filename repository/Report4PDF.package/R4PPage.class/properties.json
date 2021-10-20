@@ -1,0 +1,20 @@
+{
+	"category" : "Report4PDF",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"pageWidth",
+		"pageHeight",
+		"header",
+		"footer",
+		"nextPageNumber",
+		"watermark",
+		"outputPages" ],
+	"name" : "R4PPage",
+	"pools" : [
+		 ],
+	"super" : "R4PLayout",
+	"type" : "normal" }

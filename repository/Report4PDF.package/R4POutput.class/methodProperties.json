@@ -1,0 +1,19 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"color" : "DataCurator 10/20/2021 00:36",
+		"color:" : "DataCurator 10/20/2021 00:36",
+		"colorName" : "DataCurator 10/20/2021 00:36",
+		"colorName:" : "DataCurator 10/20/2021 00:36",
+		"colorNameAliasTable" : "DataCurator 10/20/2021 00:36",
+		"colorNameTable" : "DataCurator 10/20/2021 00:36",
+		"getColorValueFrom:" : "DataCurator 10/20/2021 00:36",
+		"outputBlack" : "DataCurator 10/20/2021 00:36",
+		"printOutputOn:" : "DataCurator 10/20/2021 00:36",
+		"renderOutput:" : "DataCurator 10/20/2021 00:36",
+		"replaceString:with:" : "DataCurator 10/20/2021 00:36",
+		"setColor:" : "DataCurator 10/20/2021 00:36",
+		"setOutputColor" : "DataCurator 10/20/2021 00:36",
+		"setOutputColorFromArray" : "DataCurator 10/20/2021 00:36",
+		"setOutputColorFromSymbol" : "DataCurator 10/20/2021 00:36" } }

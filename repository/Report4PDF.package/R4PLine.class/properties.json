@@ -1,0 +1,14 @@
+{
+	"category" : "Report4PDF",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"lineWidth" ],
+	"name" : "R4PLine",
+	"pools" : [
+		 ],
+	"super" : "R4PLayout",
+	"type" : "normal" }

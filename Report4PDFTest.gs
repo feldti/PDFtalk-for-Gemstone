@@ -51,7 +51,7 @@ TestCase
 	classVars: #()
 	classInstVars: #()
 	poolDictionaries: #()
-	inDictionary: Report4PDF
+	inDictionary: 'UserGlobals'  category: 'Report4PDFTest'  options: #()
 %
 DoIt
 	R4PReportTest category: 'Report4PDF-test'.

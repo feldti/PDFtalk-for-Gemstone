@@ -1,0 +1,17 @@
+{
+	"category" : "Report4PDF",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"cellPadding",
+		"cellSpacing",
+		"cellBorder",
+		"maxOutputPage" ],
+	"name" : "R4PRow",
+	"pools" : [
+		 ],
+	"super" : "R4PLayout",
+	"type" : "normal" }

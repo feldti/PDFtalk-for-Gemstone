@@ -1,0 +1,4 @@
+actions
+end
+
+	self closeTraceFileStream.

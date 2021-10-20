@@ -1,0 +1,4 @@
+layout
+tableWidth
+
+	^self contentWidth

@@ -1,0 +1,19 @@
+{
+	"category" : "Report4PDF",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"headerRow",
+		"columns",
+		"cellPadding",
+		"cellSpacing",
+		"cellBorder",
+		"repeatHeadingSet" ],
+	"name" : "R4PTable",
+	"pools" : [
+		 ],
+	"super" : "R4PLayout",
+	"type" : "normal" }

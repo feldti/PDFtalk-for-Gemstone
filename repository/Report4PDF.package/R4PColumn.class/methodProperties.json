@@ -1,0 +1,20 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"calculateLayout" : "DataCurator 10/20/2021 00:36",
+		"cells" : "DataCurator 10/20/2021 00:36",
+		"cells:" : "DataCurator 10/20/2021 00:36",
+		"columnWidth" : "DataCurator 10/20/2021 00:36",
+		"columnWidth:" : "DataCurator 10/20/2021 00:36",
+		"contentLeft" : "DataCurator 10/20/2021 00:36",
+		"contentRight" : "DataCurator 10/20/2021 00:36",
+		"displayColumnIndex" : "DataCurator 10/20/2021 00:36",
+		"initialize" : "DataCurator 10/20/2021 00:36",
+		"isFixedLayout" : "DataCurator 10/20/2021 00:36",
+		"layoutLeft" : "DataCurator 10/20/2021 00:36",
+		"layoutNoWrap" : "DataCurator 10/20/2021 00:36",
+		"layoutRight" : "DataCurator 10/20/2021 00:36",
+		"printLayoutOn:" : "DataCurator 10/20/2021 00:36",
+		"printOn:" : "DataCurator 10/20/2021 00:36",
+		"setCells:" : "DataCurator 10/20/2021 00:36" } }

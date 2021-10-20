@@ -1,0 +1,16 @@
+{
+	"category" : "Report4PDF",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"startPoint",
+		"endPoint",
+		"width" ],
+	"name" : "R4POutputLine",
+	"pools" : [
+		 ],
+	"super" : "R4POutput",
+	"type" : "normal" }

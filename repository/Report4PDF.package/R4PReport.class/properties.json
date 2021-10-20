@@ -1,0 +1,25 @@
+{
+	"category" : "Report4PDF",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"pageHeight",
+		"pageWidth",
+		"pages",
+		"font",
+		"fontSize",
+		"margin",
+		"pageNumberPattern",
+		"pageTotalPattern",
+		"reportTotalPattern",
+		"builder",
+		"traceOption",
+		"traceFileStream" ],
+	"name" : "R4PReport",
+	"pools" : [
+		 ],
+	"super" : "R4PObject",
+	"type" : "normal" }

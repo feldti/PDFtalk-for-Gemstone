@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"newForMatrix:xImage:" : "DataCurator 10/20/2021 00:36" },
+	"instance" : {
+		"initialize" : "DataCurator 10/20/2021 00:36",
+		"matrix" : "DataCurator 10/20/2021 00:36",
+		"matrix:" : "DataCurator 10/20/2021 00:36",
+		"printOutputOn:" : "DataCurator 10/20/2021 00:36",
+		"renderOutput:" : "DataCurator 10/20/2021 00:36",
+		"xImage" : "DataCurator 10/20/2021 00:36",
+		"xImage:" : "DataCurator 10/20/2021 00:36" } }

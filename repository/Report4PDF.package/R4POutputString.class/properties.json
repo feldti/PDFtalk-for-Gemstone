@@ -1,0 +1,19 @@
+{
+	"category" : "Report4PDF",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"matrix",
+		"string",
+		"font",
+		"fontSize",
+		"align",
+		"originalWidth" ],
+	"name" : "R4POutputString",
+	"pools" : [
+		 ],
+	"super" : "R4POutput",
+	"type" : "normal" }

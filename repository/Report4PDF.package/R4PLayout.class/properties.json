@@ -1,0 +1,37 @@
+{
+	"category" : "Report4PDF",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"parent",
+		"widthPercent",
+		"font",
+		"fontSize",
+		"align",
+		"verticalAlign",
+		"margin",
+		"padding",
+		"spacing",
+		"border",
+		"sections",
+		"include",
+		"exclude",
+		"fixedBox",
+		"layoutTop",
+		"boxBottomLimit",
+		"noWrapSet",
+		"truncated",
+		"built",
+		"boxHeightUsed",
+		"background",
+		"foreground",
+		"newPageBlock",
+		"fitOnPage" ],
+	"name" : "R4PLayout",
+	"pools" : [
+		 ],
+	"super" : "R4PObject",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Report4PDF-test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "R4PReportTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

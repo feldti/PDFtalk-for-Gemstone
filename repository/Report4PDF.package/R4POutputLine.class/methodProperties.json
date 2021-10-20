@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"newForStartPoint:endPoint:width:" : "DataCurator 10/20/2021 00:36",
+		"newForStartPoint:endPoint:width:color:" : "DataCurator 10/20/2021 00:36" },
+	"instance" : {
+		"endPoint" : "DataCurator 10/20/2021 00:36",
+		"endPoint:" : "DataCurator 10/20/2021 00:36",
+		"initialize" : "DataCurator 10/20/2021 00:36",
+		"printOn:" : "DataCurator 10/20/2021 00:36",
+		"printOutputOn:" : "DataCurator 10/20/2021 00:36",
+		"renderOutput:" : "DataCurator 10/20/2021 00:36",
+		"setColor:" : "DataCurator 10/20/2021 00:36",
+		"startPoint" : "DataCurator 10/20/2021 00:36",
+		"startPoint:" : "DataCurator 10/20/2021 00:36",
+		"width" : "DataCurator 10/20/2021 00:36",
+		"width:" : "DataCurator 10/20/2021 00:36" } }

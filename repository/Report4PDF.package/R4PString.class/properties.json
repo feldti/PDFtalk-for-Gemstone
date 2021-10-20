@@ -1,0 +1,17 @@
+{
+	"category" : "Report4PDF",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"lineBreak",
+		"endWithLineBreak",
+		"string",
+		"positionX" ],
+	"name" : "R4PString",
+	"pools" : [
+		 ],
+	"super" : "R4PLayout",
+	"type" : "normal" }

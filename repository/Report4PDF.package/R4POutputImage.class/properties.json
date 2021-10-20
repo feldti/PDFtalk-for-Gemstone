@@ -1,0 +1,15 @@
+{
+	"category" : "Report4PDF",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"matrix",
+		"xImage" ],
+	"name" : "R4POutputImage",
+	"pools" : [
+		 ],
+	"super" : "R4POutput",
+	"type" : "normal" }

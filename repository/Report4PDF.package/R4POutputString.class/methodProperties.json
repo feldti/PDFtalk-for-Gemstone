@@ -1,0 +1,25 @@
+{
+	"class" : {
+		"newForMatrix:font:fontSize:align:originalWidth:foreground:string:" : "DataCurator 10/20/2021 00:36",
+		"newForMatrix:font:foreground:string:" : "DataCurator 10/20/2021 00:36" },
+	"instance" : {
+		"adjustPosition" : "DataCurator 10/20/2021 00:36",
+		"align" : "DataCurator 10/20/2021 00:36",
+		"align:" : "DataCurator 10/20/2021 00:36",
+		"font" : "DataCurator 10/20/2021 00:36",
+		"font:" : "DataCurator 10/20/2021 00:36",
+		"fontSize" : "DataCurator 10/20/2021 00:36",
+		"fontSize:" : "DataCurator 10/20/2021 00:36",
+		"matrix" : "DataCurator 10/20/2021 00:36",
+		"matrix:" : "DataCurator 10/20/2021 00:36",
+		"originalWidth" : "DataCurator 10/20/2021 00:36",
+		"originalWidth:" : "DataCurator 10/20/2021 00:36",
+		"pdfFont" : "DataCurator 10/20/2021 00:36",
+		"printOn:" : "DataCurator 10/20/2021 00:36",
+		"printOutputOn:" : "DataCurator 10/20/2021 00:36",
+		"renderOutput:" : "DataCurator 10/20/2021 00:36",
+		"replaceString:with:" : "DataCurator 10/20/2021 00:36",
+		"setColor:" : "DataCurator 10/20/2021 00:36",
+		"string" : "DataCurator 10/20/2021 00:36",
+		"string:" : "DataCurator 10/20/2021 00:36",
+		"stringWidth" : "DataCurator 10/20/2021 00:36" } }

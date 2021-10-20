@@ -1,0 +1,4 @@
+layout
+nestedLayoutHeight
+
+	^self contentHeight

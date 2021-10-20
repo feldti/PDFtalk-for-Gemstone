@@ -1,0 +1,16 @@
+{
+	"category" : "Report4PDF",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"image",
+		"filename",
+		"scale" ],
+	"name" : "R4PImage",
+	"pools" : [
+		 ],
+	"super" : "R4PLayout",
+	"type" : "normal" }

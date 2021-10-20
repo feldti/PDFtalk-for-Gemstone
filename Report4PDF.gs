@@ -84,7 +84,9 @@ Object
 	classVars: #()
 	classInstVars: #()
 	poolDictionaries: #()
-	inDictionary: Report4PDF
+	inDictionary: 'UserGlobals'
+    category: 'Report4PDF'
+    options: #()
 %
 DoIt
 	R4PObject category: 'Report4PDF'.
@@ -98,7 +100,7 @@ R4PObject
 	classVars: #()
 	classInstVars: #()
 	poolDictionaries: #()
-	inDictionary: Report4PDF
+	inDictionary: 'UserGlobals'  category: 'Report4PDF'  options: #()
 %
 DoIt
 	R4PBuilder category: 'Report4PDF'.
@@ -112,7 +114,7 @@ R4PObject
 	classVars: #()
 	classInstVars: #()
 	poolDictionaries: #()
-	inDictionary: Report4PDF
+	inDictionary: 'UserGlobals'  category: 'Report4PDF'  options: #()
 %
 DoIt
 	R4PLayout category: 'Report4PDF'.
@@ -126,7 +128,7 @@ R4PLayout
 	classVars: #()
 	classInstVars: #()
 	poolDictionaries: #()
-	inDictionary: Report4PDF
+	inDictionary: 'UserGlobals'  category: 'Report4PDF'  options: #()
 %
 DoIt
 	R4PColumn category: 'Report4PDF'.
@@ -140,7 +142,7 @@ R4PObject
 	classVars: #()
 	classInstVars: #()
 	poolDictionaries: #()
-	inDictionary: Report4PDF
+	inDictionary: 'UserGlobals'  category: 'Report4PDF'  options: #()
 %
 DoIt
 	R4POutput category: 'Report4PDF'.
@@ -154,7 +156,7 @@ R4POutput
 	classVars: #()
 	classInstVars: #()
 	poolDictionaries: #()
-	inDictionary: Report4PDF
+	inDictionary: 'UserGlobals'  category: 'Report4PDF'  options: #()
 %
 DoIt
 	R4POutputLine category: 'Report4PDF'.
@@ -168,7 +170,7 @@ R4PLayout
 	classVars: #()
 	classInstVars: #()
 	poolDictionaries: #()
-	inDictionary: Report4PDF
+	inDictionary: 'UserGlobals'  category: 'Report4PDF'  options: #()
 %
 DoIt
 	R4PString category: 'Report4PDF'.
@@ -182,7 +184,7 @@ R4PLayout
 	classVars: #()
 	classInstVars: #()
 	poolDictionaries: #()
-	inDictionary: Report4PDF
+	inDictionary: 'UserGlobals'  category: 'Report4PDF'  options: #()
 %
 DoIt
 	R4PTable category: 'Report4PDF'.
@@ -196,7 +198,7 @@ R4POutput
 	classVars: #()
 	classInstVars: #()
 	poolDictionaries: #()
-	inDictionary: Report4PDF
+	inDictionary: 'UserGlobals'  category: 'Report4PDF'  options: #()
 %
 DoIt
 	R4POutputBackground category: 'Report4PDF'.
@@ -210,7 +212,7 @@ R4PLayout
 	classVars: #()
 	classInstVars: #()
 	poolDictionaries: #()
-	inDictionary: Report4PDF
+	inDictionary: 'UserGlobals'  category: 'Report4PDF'  options: #()
 %
 DoIt
 	R4PBullet category: 'Report4PDF'.
@@ -224,7 +226,7 @@ R4PLayout
 	classVars: #()
 	classInstVars: #()
 	poolDictionaries: #()
-	inDictionary: Report4PDF
+	inDictionary: 'UserGlobals'  category: 'Report4PDF'  options: #()
 %
 DoIt
 	R4PPage category: 'Report4PDF'.
@@ -238,7 +240,7 @@ R4PLayout
 	classVars: #()
 	classInstVars: #()
 	poolDictionaries: #()
-	inDictionary: Report4PDF
+	inDictionary: 'UserGlobals'  category: 'Report4PDF'  options: #()
 %
 DoIt
 	R4PRow category: 'Report4PDF'.
@@ -252,7 +254,7 @@ R4PLayout
 	classVars: #()
 	classInstVars: #()
 	poolDictionaries: #()
-	inDictionary: Report4PDF
+	inDictionary: 'UserGlobals'  category: 'Report4PDF'  options: #()
 %
 DoIt
 	R4PText category: 'Report4PDF'.
@@ -266,7 +268,7 @@ R4PLayout
 	classVars: #()
 	classInstVars: #()
 	poolDictionaries: #()
-	inDictionary: Report4PDF
+	inDictionary: 'UserGlobals'  category: 'Report4PDF'  options: #()
 %
 DoIt
 	R4PImage category: 'Report4PDF'.
@@ -280,7 +282,7 @@ R4POutput
 	classVars: #()
 	classInstVars: #()
 	poolDictionaries: #()
-	inDictionary: Report4PDF
+	inDictionary: 'UserGlobals'  category: 'Report4PDF'  options: #()
 %
 DoIt
 	R4POutputString category: 'Report4PDF'.
@@ -294,7 +296,7 @@ R4PLayout
 	classVars: #()
 	classInstVars: #()
 	poolDictionaries: #()
-	inDictionary: Report4PDF
+	inDictionary: 'UserGlobals'  category: 'Report4PDF'  options: #()
 %
 DoIt
 	R4PLine category: 'Report4PDF'.
@@ -308,7 +310,7 @@ R4PLayout
 	classVars: #()
 	classInstVars: #()
 	poolDictionaries: #()
-	inDictionary: Report4PDF
+	inDictionary: 'UserGlobals'  category: 'Report4PDF'  options: #()
 %
 DoIt
 	R4PSection category: 'Report4PDF'.
@@ -322,7 +324,7 @@ R4POutput
 	classVars: #()
 	classInstVars: #()
 	poolDictionaries: #()
-	inDictionary: Report4PDF
+	inDictionary: 'UserGlobals'  category: 'Report4PDF'  options: #()
 %
 DoIt
 	R4POutputPage category: 'Report4PDF'.
@@ -336,7 +338,7 @@ R4POutput
 	classVars: #()
 	classInstVars: #()
 	poolDictionaries: #()
-	inDictionary: Report4PDF
+	inDictionary: 'UserGlobals'  category: 'Report4PDF'  options: #()
 %
 DoIt
 	R4POutputImage category: 'Report4PDF'.
@@ -350,7 +352,7 @@ R4PLayout
 	classVars: #()
 	classInstVars: #()
 	poolDictionaries: #()
-	inDictionary: Report4PDF
+	inDictionary: 'UserGlobals'  category: 'Report4PDF'  options: #()
 %
 DoIt
 	R4PCell category: 'Report4PDF'.
@@ -364,7 +366,7 @@ Exception
 	classVars: #()
 	classInstVars: #()
 	poolDictionaries: #()
-	inDictionary: Report4PDF
+	inDictionary: 'UserGlobals'  category: 'Report4PDF'  options: #()
 %
 DoIt
 	R4PError category: 'Report4PDF'.
@@ -378,7 +380,7 @@ R4PObject
 	classVars: #()
 	classInstVars: #()
 	poolDictionaries: #()
-	inDictionary: Report4PDF
+	inDictionary: 'UserGlobals'  category: 'Report4PDF'  options: #()
 %
 DoIt
 	R4PReport category: 'Report4PDF'.

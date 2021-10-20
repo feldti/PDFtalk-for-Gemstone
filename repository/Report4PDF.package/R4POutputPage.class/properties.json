@@ -1,0 +1,25 @@
+{
+	"category" : "Report4PDF",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"renderer",
+		"output",
+		"reportPage",
+		"nextPage",
+		"previousPage",
+		"currentY",
+		"minimumY",
+		"maximumY",
+		"pageWidth",
+		"pageHeight",
+		"outputPageIndex",
+		"nextPageNumber" ],
+	"name" : "R4POutputPage",
+	"pools" : [
+		 ],
+	"super" : "R4POutput",
+	"type" : "normal" }

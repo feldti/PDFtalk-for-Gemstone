@@ -1,0 +1,3 @@
+accessing
+cellPadding
+	^cellPadding

@@ -1,0 +1,19 @@
+{
+	"category" : "Report4PDF",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"top",
+		"left",
+		"bottom",
+		"right",
+		"width",
+		"height" ],
+	"name" : "R4POutputBackground",
+	"pools" : [
+		 ],
+	"super" : "R4POutput",
+	"type" : "normal" }

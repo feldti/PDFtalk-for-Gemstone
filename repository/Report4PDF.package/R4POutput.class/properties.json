@@ -1,0 +1,15 @@
+{
+	"category" : "Report4PDF",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"color",
+		"colorName" ],
+	"name" : "R4POutput",
+	"pools" : [
+		 ],
+	"super" : "R4PObject",
+	"type" : "normal" }

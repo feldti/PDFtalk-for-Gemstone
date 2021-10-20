@@ -1,0 +1,25 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"buildOutput:" : "DataCurator 10/20/2021 00:36",
+		"bulletFont:" : "DataCurator 10/20/2021 00:36",
+		"bulletFontSize:" : "DataCurator 10/20/2021 00:36",
+		"bulletText" : "DataCurator 10/20/2021 00:36",
+		"bulletText:" : "DataCurator 10/20/2021 00:36",
+		"bulletTextYAdjustment" : "DataCurator 10/20/2021 00:36",
+		"calculateLayout" : "DataCurator 10/20/2021 00:36",
+		"canBuildAt:limit:" : "DataCurator 10/20/2021 00:36",
+		"character:" : "DataCurator 10/20/2021 00:36",
+		"circle" : "DataCurator 10/20/2021 00:36",
+		"diamond" : "DataCurator 10/20/2021 00:36",
+		"indent:" : "DataCurator 10/20/2021 00:36",
+		"initialize" : "DataCurator 10/20/2021 00:36",
+		"initializeBulletText" : "DataCurator 10/20/2021 00:36",
+		"large" : "DataCurator 10/20/2021 00:36",
+		"number:" : "DataCurator 10/20/2021 00:36",
+		"printLayoutOn:" : "DataCurator 10/20/2021 00:36",
+		"small" : "DataCurator 10/20/2021 00:36",
+		"square" : "DataCurator 10/20/2021 00:36",
+		"veryLarge" : "DataCurator 10/20/2021 00:36",
+		"verySmall" : "DataCurator 10/20/2021 00:36" } }

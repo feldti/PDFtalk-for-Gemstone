@@ -1,0 +1,4 @@
+layout
+contentHeight
+
+	^self totalFontHeight

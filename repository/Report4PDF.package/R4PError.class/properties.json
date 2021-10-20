@@ -1,0 +1,14 @@
+{
+	"category" : "Report4PDF",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "R4PError",
+	"pools" : [
+		 ],
+	"super" : "Exception",
+	"type" : "normal" }

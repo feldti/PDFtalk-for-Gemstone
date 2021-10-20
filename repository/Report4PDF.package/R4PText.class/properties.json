@@ -1,0 +1,17 @@
+{
+	"category" : "Report4PDF",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"flip",
+		"leading",
+		"maxFontHeight",
+		"containsTruncatedText" ],
+	"name" : "R4PText",
+	"pools" : [
+		 ],
+	"super" : "R4PLayout",
+	"type" : "normal" }
