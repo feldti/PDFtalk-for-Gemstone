@@ -1,6 +1,6 @@
 documentation
 buildUserGuide
-	" self buildUserGuide "
+	" R4PReport buildUserGuide "
 
 	| writeStream readStream report |
 

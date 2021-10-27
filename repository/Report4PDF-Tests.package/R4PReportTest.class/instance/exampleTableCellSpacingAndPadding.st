@@ -1,0 +1,31 @@
+examples
+exampleTableCellSpacingAndPadding
+	" self new exampleTableCellSpacingAndPadding saveAndShowAs: 'exampleTableCellSpacingAndPadding.pdf' "
+
+	| report | 
+
+	report := R4PReport new.
+	report portrait.
+	report page: [:page | 
+		page header string: 'This is a table report header'.
+		page table: [:table | 
+			table marginTop: 10; cellPadding: 2; cellSpacing: 2; cellBorder: 0.1 .
+			table header: [:row | 
+				row fontSize: 12.
+				row cell string: 'Table Header 1 pjyg'.
+				row cell text string: 'Table Header 2'.
+				row cell string: 'Table Header 3'].
+			table row: [:row | 
+				row cell text string: 'data row 1 column 1'.
+				row cell string: 'data row 1 column 2 pjyg' .
+				row cell string: 'data row 1 column 3'].
+			table row: [:row | 
+				row cell string: 'data row 2 column 1'.
+				row cell string: 'data row 2 column 2'.
+				row cell string: 'data row 2 column 3 pjyg'].
+			table row: [:row | 
+				row cell string: 'data row 3 column 1'.
+				row cell string: 'data row 3 column 2'.
+				row cell string: 'data row 3 column 3']].
+		page footer string: 'This is a table report footer'].
+	^report
