@@ -74,9 +74,7 @@ DateAndTime
 	classVars: #()
 	classInstVars: #()
 	poolDictionaries: #()
-	inDictionary: 'PDFtalkLibrary'
-    category: 'PDFTalk'
-    options: #()
+	inDictionary: 'PDFtalkLibrary' category: 'PDFTalk' options: #()
 %
 DoIt
 Color
@@ -85,7 +83,7 @@ Color
 	classVars: #()
 	classInstVars: #()
 	poolDictionaries: #()
-	inDictionary: 'PDFtalkLibrary'
+	inDictionary: 'PDFtalkLibrary' category: 'PDFTalk' options: #()
 %
 DoIt
 ColorValue category: 'Values VW stub class'.
@@ -99,7 +97,7 @@ Object
 	classVars: #(NamedValuesRegistry)
 	classInstVars: #()
 	poolDictionaries: #()
-	inDictionary: 'PDFtalkLibrary'
+	inDictionary: 'PDFtalkLibrary' category: 'PDFTalk' options: #()
 %
 DoIt
 	Value category: 'Values'.
@@ -120,7 +118,7 @@ Value
 	classVars: #()
 	classInstVars: #()
 	poolDictionaries: #()
-	inDictionary: 'PDFtalkLibrary'
+	inDictionary: 'PDFtalkLibrary' category: 'PDFTalk' options: #()
 %
 DoIt
 	Printargument category: 'Values'.
@@ -139,7 +137,7 @@ Printargument
 	classVars: #()
 	classInstVars: #()
 	poolDictionaries: #()
-	inDictionary: 'PDFtalkLibrary'
+	inDictionary: 'PDFtalkLibrary' category: 'PDFTalk' options: #()
 %
 DoIt
 	DictionaryPrintargument category: 'Values'.
@@ -154,7 +152,7 @@ Value
 	classVars: #()
 	classInstVars: #()
 	poolDictionaries: #()
-	inDictionary: 'PDFtalkLibrary'
+	inDictionary: 'PDFtalkLibrary' category: 'PDFTalk' options: #()
 %
 DoIt
 	Printvalue category: 'Values'.
@@ -173,7 +171,7 @@ Printvalue
 	classVars: #()
 	classInstVars: #()
 	poolDictionaries: #()
-	inDictionary: 'PDFtalkLibrary'
+	inDictionary: 'PDFtalkLibrary' category: 'PDFTalk' options: #()
 %
 DoIt
 	ValuePrintvalue category: 'Values'.
@@ -193,7 +191,7 @@ Printvalue
 	classVars: #()
 	classInstVars: #()
 	poolDictionaries: #()
-	inDictionary: 'PDFtalkLibrary'
+	inDictionary: 'PDFtalkLibrary' category: 'PDFTalk' options: #()
 %
 DoIt
 	ArrayPrintvalue category: 'Values'.
@@ -207,7 +205,7 @@ Object
 	classVars: #()
 	classInstVars: #()
 	poolDictionaries: #()
-	inDictionary: 'PDFtalkLibrary'
+	inDictionary: 'PDFtalkLibrary' category: 'PDFTalk' options: #()
 %
 DoIt
 	Emitter category: 'Values'.
@@ -229,7 +227,7 @@ Emitter
 	classVars: #()
 	classInstVars: #()
 	poolDictionaries: #()
-	inDictionary: 'PDFtalkLibrary'
+	inDictionary: 'PDFtalkLibrary' category: 'PDFTalk' options: #()
 %
 DoIt
 	TextEmitter category: 'Values'.
@@ -243,7 +241,7 @@ TextEmitter
 	classVars: #()
 	classInstVars: #()
 	poolDictionaries: #()
-	inDictionary: 'PDFtalkLibrary'
+	inDictionary: 'PDFtalkLibrary' category: 'PDFTalk' options: #()
 %
 DoIt
 	TextLineemitter category: 'Values'.
@@ -257,7 +255,7 @@ Printvalue
 	classVars: #()
 	classInstVars: #()
 	poolDictionaries: #()
-	inDictionary: 'PDFtalkLibrary'
+	inDictionary: 'PDFtalkLibrary' category: 'PDFTalk' options: #()
 %
 DoIt
 	DictionaryPrintvalue category: 'Values'.
@@ -274,7 +272,7 @@ Emitter
 	classVars: #()
 	classInstVars: #()
 	poolDictionaries: #()
-	inDictionary: 'PDFtalkLibrary'
+	inDictionary: 'PDFtalkLibrary' category: 'PDFTalk' options: #()
 %
 DoIt
 	SourceEmitter category: 'Values'.
@@ -288,7 +286,7 @@ SourceEmitter
 	classVars: #()
 	classInstVars: #()
 	poolDictionaries: #()
-	inDictionary: 'PDFtalkLibrary'
+	inDictionary: 'PDFtalkLibrary' category: 'PDFTalk' options: #()
 %
 DoIt
 	Lineemitter category: 'Values'.
@@ -302,7 +300,7 @@ SourceEmitter
 	classVars: #()
 	classInstVars: #()
 	poolDictionaries: #()
-	inDictionary: 'PDFtalkLibrary'
+	inDictionary: 'PDFtalkLibrary' category: 'PDFTalk' options: #()
 %
 DoIt
 	Blockemitter category: 'Values'.
@@ -316,7 +314,7 @@ Printvalue
 	classVars: #()
 	classInstVars: #()
 	poolDictionaries: #()
-	inDictionary: 'PDFtalkLibrary'
+	inDictionary: 'PDFtalkLibrary' category: 'PDFTalk' options: #()
 %
 DoIt
 	LiteralPrintvalue category: 'Values'.
@@ -333,7 +331,7 @@ TextEmitter
 	classVars: #()
 	classInstVars: #()
 	poolDictionaries: #()
-	inDictionary: 'PDFtalkLibrary'
+	inDictionary: 'PDFtalkLibrary' category: 'PDFTalk' options: #()
 %
 DoIt
 	TextBlockemitter category: 'Values'.
@@ -347,7 +345,7 @@ Dictionary
 	classVars: #()
 	classInstVars: #()
 	poolDictionaries: #()
-	inDictionary: 'PDFtalkLibrary'
+	inDictionary: 'PDFtalkLibrary' category: 'PDFTalk' options: #()
 %
 DoIt
 	Valuemap category: 'Values'.
@@ -371,7 +369,7 @@ Object
 	classVars: #()
 	classInstVars: #()
 	poolDictionaries: #()
-	inDictionary: 'PDFtalkLibrary'
+	inDictionary: 'PDFtalkLibrary' category: 'PDFTalk' options: #()
 %
 DoIt
 	ValuePrinter category: 'Values'.
@@ -10464,7 +10462,7 @@ ReadStreamPortable
 	classVars: #()
 	classInstVars: #()
 	poolDictionaries: #()
-	inDictionary: 'PDFtalkLibrary'
+	inDictionary: 'PDFtalkLibrary' category: 'PDFTalk' options: #()
 %
 DoIt
 	ByteReadStream category: 'PDFtalk Basics'.
@@ -10479,7 +10477,7 @@ WriteStreamPortable
 	classVars: #()
 	classInstVars: #()
 	poolDictionaries: #()
-	inDictionary: 'PDFtalkLibrary'
+	inDictionary: 'PDFtalkLibrary' category: 'PDFTalk' options: #()
 %
 DoIt
 	ByteWriteStream category: 'PDFtalk Basics'.
@@ -20437,7 +20435,7 @@ Object
 	classVars: #()
 	classInstVars: #()
 	poolDictionaries: #()
-	inDictionary: 'PDFtalkLibrary'
+	inDictionary: 'PDFtalkLibrary' category: 'PDFTalk' options: #()
 %
 DoIt
 CoverageValue category: 'PDFtalk Colour VW stub class'.
@@ -20451,7 +20449,7 @@ Value
 	classVars: #()
 	classInstVars: #()
 	poolDictionaries: #()
-	inDictionary: 'PDFtalkLibrary'
+	inDictionary: 'PDFtalkLibrary' category: 'PDFTalk' options: #()
 %
 DoIt
 	CmykColor category: 'PDFtalk Colour'.
