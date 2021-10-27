@@ -81132,6 +81132,7 @@ System myUserProfile removeDictionaryAt: 1.
 %
 DoIt
 	| start |
+    GsPackagePolicy current homeSymbolDict: UserGlobals.
 	UserGlobals removeKey: #FileInSymbolDictionary.
 	start := UserGlobals removeKey: #FileInStartingTimestamp ifAbsent: [
 		^'No starting timestamp; no duration available'].
