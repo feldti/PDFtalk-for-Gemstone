@@ -74,8 +74,8 @@ DateAndTime
 	classVars: #()
 	classInstVars: #()
 	poolDictionaries: #()
-	inDictionary: ''
-    category: 'Report4PDF'
+	inDictionary: PDFtalkLibrary
+    category: 'PDFTalk'
     options: #()
 %
 DoIt
