@@ -1,0 +1,15 @@
+{
+	"category" : "BaselineOfReport4PDF",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Lf",
+		"Tab" ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfReport4PDF",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
