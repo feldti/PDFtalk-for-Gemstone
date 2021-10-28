@@ -5260,7 +5260,7 @@ classmethod: PostScriptFontMetrics
 example
 	^PostScriptFontMetrics
 		header: (PFMHeader
-			copyright: 'Copyright 1997, 1999, 2002, 2006 by Luc[as] de Groot. All   '
+			copyright: 'Copyright 1997, 1999, 2002, 2006 by Luc[as] de Groot. All\00\00\00'
 			ascent: 864
 			internalLeading: 62
 			externalLeading: 0
@@ -11862,7 +11862,7 @@ testDecoderDifferenceToISO8859_1
 	inFontButNotInIsoString := String fromString: inFontButNotInIso asSortedCollection.
 	inIsoButNotInFontString := String fromString: inIsoButNotInFont asSortedCollection.
 	self assert: inFontButNotInIsoString = 'ŒœŠšŸŽžƒˆ˜–—‘’‚“”„†‡•…‰‹›€™￿'.
-	self deny: inIsoButNotInFontString = ' 	
+	self deny: inIsoButNotInFontString = '\00	
 
 ''` ¤¦­²³µ¹¼½¾Ð×ÝÞðýþ'
 %
@@ -17611,6 +17611,7 @@ DoIt
 	start := UserGlobals removeKey: #FileInStartingTimestamp ifAbsent: [
 		^'No starting timestamp; no duration available'].
 	'Run duration: ' , (DateAndTime now - start) printString.
+    GsPackagePolicy current homeSymbolDict: UserGlobals.
 %
 IfErr_clear
 Commit
