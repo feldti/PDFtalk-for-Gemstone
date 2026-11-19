@@ -14,6 +14,22 @@ EAXMPLES
 HELP
 }
 
+gs_version() {
+    local dir ver
+    dir=$(readlink -f "$GEMSTONE") || return 1
+
+    # 1. Aus dem Verzeichnisnamen, z.B. GemStone64Bit3.7.6-x86_64.Linux
+    ver=$(basename "$dir" | grep -oE '[0-9]+\.[0-9]+(\.[0-9]+)*' | head -n1)
+
+    # 2. Rückfallebene: version.txt
+    if [ -z "$ver" ] && [ -f "$dir/version.txt" ]; then
+        ver=$(grep -oE '[0-9]+\.[0-9]+(\.[0-9]+)*' "$dir/version.txt" | head -n1)
+    fi
+
+    [ -n "$ver" ] && echo "$ver"
+}
+
+
 if [ $# -lt 2 ]; then
   usage; exit 1
 fi
@@ -44,6 +60,15 @@ else
     exit 1
 fi
 
+ver=$(gs_version) || { echo "GemStone-Version nicht ermittelbar" >&2; exit 1; }
+echo "Gemstone Version "$ver
+case "$ver" in
+    3.7.*) pdftalkfile="./PDFtalk37.gs" ;;
+    *)     pdftalkfile="./PDFtalk.gs" ;;
+  esac
+
+echo "Version to load: "${pdftalkfile}
+
 nowTS=`date +%Y-%m-%d-%H-%M`
 cat << EOF | $GEMSTONE/bin/topaz -T 4000000 -l -u loadpdftalk  2>&1 >> loadPDFTalk_${nowTS}.log
 set user DataCurator pass $GEMSTONE_CURATOR_PASS gems $stoneName
@@ -52,7 +77,7 @@ iferror where
 
 login
 
-input ./PDFtalk.gs
+input ${pdftalkfile}
 output pop
 exit
 
